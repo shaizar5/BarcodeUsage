@@ -1,0 +1,6 @@
+{
+  "name": "CreditKeeper",
+  "description": "Secure, instantly synchronized store credit and barcode manager for families and small groups.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
